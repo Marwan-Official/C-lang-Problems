@@ -12,17 +12,16 @@ void main()
 {
     float salary;
     
-    printf("Enter The Salary Of The Employ: ");
+    printf("Enter The Salary Of The Employee: ");
     scanf("%f", &salary);
     
     float tax;
     
     if(salary >= 500) tax = 0.2;
-    else if(salary < 500 && salary >= 300) tax = 0.1;
+    else if(salary >= 300) tax = 0.1;
     else tax = 0.05;
     
-    float final_salary;
-    final_salary = salary - (salary * tax);
+    float final_salary = salary - (salary * tax);
     
     printf("The Final Salary Is: $%f", final_salary);
 }
