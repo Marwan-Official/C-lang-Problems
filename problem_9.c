@@ -43,9 +43,14 @@ void main()
         printf("The Result Of The Operation = %f", result);
     }
     else if(operation == '/')
-    {
-        result = (num1 / num2);
+    {   if ( num2 == 0){
+            printf("this operation can't be done");
+        }
+      else{
+      result = (num1 / num2);
+      
         printf("The Result Of The Operation = %f", result);
+        }
     }
     else
     {
