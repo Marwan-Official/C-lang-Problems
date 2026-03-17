@@ -43,13 +43,14 @@ void main()
         printf("The Result Of The Operation = %f", result);
     }
     else if(operation == '/')
-    {   if ( num2 == 0){
-            printf("this operation can't be done");
+    {   
+        if (num2 == 0){
+            printf("This Operation Can't Be Done");
         }
-      else{
-      result = (num1 / num2);
-      
-        printf("The Result Of The Operation = %f", result);
+        else
+        {
+            result = (num1 / num2);
+            printf("The Result Of The Operation = %f", result);
         }
     }
     else
@@ -76,8 +77,14 @@ void main()
         break;
         
         case '/':
-        result = (num1 / num2);
-        printf("The Result Of The Operation = %f", result);
+        if (num2 == 0){
+            printf("This Operation Can't Be Done");
+        }
+        else
+        {
+            result = (num1 / num2);
+            printf("The Result Of The Operation = %f", result);
+        }
         break;
         
         default:
