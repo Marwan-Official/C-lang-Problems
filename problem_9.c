@@ -49,7 +49,7 @@ void main()
     }
     else
     {
-        printf("Error: You Have Not Entered A Supported Operation\nMake Sure To Use The Supported Operation");
+        printf("Error: You Have Not Entered A Supported Operation\nMake Sure You Are Using The Supported Operations.");
     }*/
     
     //switch method
@@ -76,7 +76,7 @@ void main()
         break;
         
         default:
-        printf("Error: You Have Not Entered A Supported Operation\nMake Sure To Use The Supported Operation");
+        printf("Error: You Have Not Entered A Supported Operation\nMake Sure You Are Using The Supported Operation");
         break;
         
     }
