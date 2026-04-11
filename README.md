@@ -19,6 +19,6 @@ Bunch of C Language Problems That i Solved.
 - [Problem 11](Problem_11.c).
 - [Problem 13](Problem_13.c). 
 
-### Loops
+### for loops
 - [Problem 14](Problem_14.c).
 - [Problem 15](Problem_15.c).
