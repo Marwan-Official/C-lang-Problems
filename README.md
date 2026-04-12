@@ -24,17 +24,17 @@ Bunch of C Language Problems That i Solved.
 - [Problem 15](Problem_15.c).
 
 ### nested for loops
-- [Problem 16](Problem_16.c).
-- [Problem 17](Problem_17.c).
-- [Problem 18](Problem_18.c).
-- [Problem 19](Problem_19.c).
-- [Problem 20](Problem_20.c).
-- [Problem 21](Problem_21.c).
-- [Problem 22](Problem_22.c).
-- [Problem 23](Problem_23.c).
-- [Problem 24](Problem_24.c).
-- [Problem 25](Problem_25.c).
-- [Problem 26](Problem_26.c).
-- [Problem 27](Problem_27.c).
-- [Problem 28](Problem_28.c).
-- [Problem 29](Problem_29.c).
+- [Problem 16](problem_16.c).
+- [Problem 17](problem_17.c).
+- [Problem 18](problem_18.c).
+- [Problem 19](problem_19.c).
+- [Problem 20](problem_20.c).
+- [Problem 21](problem_21.c).
+- [Problem 22](problem_22.c).
+- [Problem 23](problem_23.c).
+- [Problem 24](problem_24.c).
+- [Problem 25](problem_25.c).
+- [Problem 26](problem_26.c).
+- [Problem 27](problem_27.c).
+- [Problem 28](problem_28.c).
+- [Problem 29](problem_29.c).
