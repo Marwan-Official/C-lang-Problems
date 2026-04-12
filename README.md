@@ -38,3 +38,4 @@ Bunch of C Language Problems That i Solved.
 - [Problem 27](problem_27.c).
 - [Problem 28](problem_28.c).
 - [Problem 29](problem_29.c).
+- [Problem 30](problem_30.c).
