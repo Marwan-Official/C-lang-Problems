@@ -1,3 +1,12 @@
+/*
+
+depends on user input
+
+*****
+ ***
+  *
+
+*/
 #include<stdio.h>
 #include<stdlib.h>
 
