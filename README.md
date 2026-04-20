@@ -39,3 +39,12 @@ Bunch of C Language Problems That i Solved.
 - [Problem 28](problem_28.c).
 - [Problem 29](problem_29.c).
 - [Problem 30](problem_30.c).
+
+### Practical
+- [Problem 1](practical_1.c).
+- [Problem 2](practical_2.c).
+- [Problem 3](practical_3.c).
+- [Problem 11](practical_11.c).
+- [Problem 12](practical_12.c).
+- [Problem 15](practical_15.c).
+- [Problem 16](practical_16.c).
