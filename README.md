@@ -40,6 +40,11 @@ Bunch of C Language Problems That i Solved.
 - [Problem 29](problem_29.c).
 - [Problem 30](problem_30.c).
 
+### Custom Functions
+- [Problem 31](problem_31.c).
+- [Problem 32](problem_32.c).
+- [Problem 33](problem_33.c).
+
 ### Practical
 - [Problem 1](practical_1.c).
 - [Problem 2](practical_2.c).
