@@ -45,6 +45,11 @@ Bunch of C Language Problems That i Solved.
 - [Problem 32](problem_32.c).
 - [Problem 33](problem_33.c).
 
+### Array (basic)
+- [Problem 34](problem_34.c).
+- [Problem 35](problem_35.c).
+- [Problem 36](problem_36.c).
+
 ### Practical
 - [Problem 1](practical_1.c).
 - [Problem 2](practical_2.c).
