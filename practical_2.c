@@ -5,7 +5,7 @@ write a program to check whether a number is odd or even
 */
 #include <stdio.h>
 
-int main(void) {
+int main(){
     
     int number;
 
@@ -13,10 +13,11 @@ int main(void) {
     scanf("%d",&number);
     
     if(number%2==0){
-        printf("The Number '%d' is even",number);
+        printf("\nThe Number '%d' is even",number);
     }else{
-        
-        printf("The Number '%d' is odd",number);
+        printf("\nThe Number '%d' is odd",number);
     }
+    
+    return(0);
 }
 
