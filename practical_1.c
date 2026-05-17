@@ -4,23 +4,31 @@ using a c program design a calculator that accepts two numbers from the user the
 
 */
 #include <stdio.h>
+#include <stdlib.h>
 
-int main(void) {
+int main() {
+    float num1, num2;
     
-    float n1,n2,res;
-    float sum,divs,multi,subs;
-
-    printf("Enter The First Number: ");
-    scanf("%f",&n1);
+    printf("Enter two numbers in order: ");
+    scanf("%f %f", &num1, &num2);
     
-    printf("Enter The Second Number: ");
-    scanf("%f",&n2);
+    float sum = num1 + num2;
+    printf("sum = %f \n", sum);
     
-    sum = n1 + n2;
-    multi = n1 * n2;
-    divs = n1 / n2;
-    subs = n1 - n2;
+    float sub = num1 - num2;
+    printf("sub = %f \n", sub);
     
-    printf("Results:\nSummation = %f\nSubtraction = %f\nMultiplication = %f\nDivision = %f\n",sum,subs,multi,divs);
+    float multi = num1 * num2;
+    printf("Multi = %f \n", multi);
+    
+    float div;
+    if (num2 != 0) {
+        div = num1 / num2;
+        printf("div = %f \n", div);
+    } else {
+        printf("can't complete operation \n");
+    }
+    
+    return 0;
 }
 
