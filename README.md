@@ -54,8 +54,17 @@ Thanks To All The Contributers Who Helped Me Getting This Repository Done.
 - [Problem 1](practical_1.c).
 - [Problem 2](practical_2.c).
 - [Problem 3](practical_3.c).
+- [Problem 4](practical_4.c).
+- [Problem 5](practical_5.c).
+- [Problem 6](practical_6.c).
+- [Problem 7](practical_7.c).
+- [Problem 8](practical_8.c).
+- [Problem 9](practical_9.c).
+- [Problem 10](practical_10.c).
 - [Problem 11](practical_11.c).
 - [Problem 12](practical_12.c).
+- [Problem 13](practical_13.c).
+- [Problem 14](practical_14.c).
 - [Problem 15](practical_15.c).
 - [Problem 16](practical_16.c).
 
